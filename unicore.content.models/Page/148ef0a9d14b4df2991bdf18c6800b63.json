@@ -4,14 +4,14 @@
   "language": "ind_ID", 
   "title": "Saya dalam kondisi yang sehat! ", 
   "primary_category": "3b2afd4315404150819bba17e234375e", 
-  "created_at": "2016-10-05T14:55:08.204314+00:00", 
+  "created_at": "2016-10-05T14:55:08+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-10-05T14:55:08.204554+00:00", 
+  "modified_at": "2016-10-05T15:12:42.222453+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "49c7f8dbbcf54004862899cf10de2b9b", 
   "published": null, 
-  "position": 0, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "saya-dalam-kondisi-yang-sehat", 
   "uuid": "148ef0a9d14b4df2991bdf18c6800b63"
