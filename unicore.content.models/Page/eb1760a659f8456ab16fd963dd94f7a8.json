@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Semua anak harus memiliki identitas yang diakui secara resmi ", 
+  "language": "ind_ID", 
+  "title": "Saya memiliki identitas! ", 
+  "primary_category": "3b2afd4315404150819bba17e234375e", 
+  "created_at": "2016-10-05T08:56:17.815957+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-10-05T08:56:17.816190+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Sejak mereka lahir, anak-anak memiliki hak terhadap nama dan kebangsaan yang diakui secara resmi. Mereka memliki hak untuk mengetahui siapa orang tua mereka jika dimungkinkan, dan dibesarkan oleh mereka. (Pasal 7) \r\n \r\nJika identitas seorang anak dirampas darinya, Negara harus berusaha melindungi dan membantu membangun kembali identitas tersebut. (Pasal 8) \r\n\r\nPasal berikutnya:", 
+  "source": "17207dfc2d394798a39cb82db695f389", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "9c70202e432544d18402d176e81dc370", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "saya-memiliki-identitas", 
+  "uuid": "eb1760a659f8456ab16fd963dd94f7a8"
+}
