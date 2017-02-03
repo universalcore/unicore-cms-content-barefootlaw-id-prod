@@ -6,12 +6,12 @@
   "primary_category": "3bd8aa8c331f404cb2bcfa9b90440793", 
   "created_at": "2016-10-05T08:24:04+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-10-05T15:35:51.474582+00:00", 
+  "modified_at": "2017-02-03T11:30:59.226291+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 14, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "apakah-konvensi-itu", 
   "uuid": "a66e7aa8dfd3409daf433115993cfda2"
